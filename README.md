@@ -1,5 +1,5 @@
 # Kube-Install-Hard-Way
-Kubernetes Installation script based on the manual hard way
+Kubernetes Installation script based on the manual hard way.
 
 Based on https://github.com/mmumshad/kubernetes-the-hard-way/ which is a fork of https://github.com/kelseyhightower/kubernetes-the-hard-way
 
